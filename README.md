@@ -1,2 +1,2 @@
 # cssSkillsProject
-Demonstate the usage of my css abilities
+Demonstate the usage of my css abilities!
